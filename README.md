@@ -1,4 +1,4 @@
-## Hi, I’m Juilee Gund 👋
+# Hi, I’m Juilee Gund.
 ### 💞️ Thanks for stopping by! This is where I break things (ethically), learn and share my cybersecurity journey.
 
 ### 🌱 Currently diving deep into **Red Teaming**, **Penetration Testing**,and **Kali-Linux**. I enjoy exploring how systems fail and how to make them stronger.
