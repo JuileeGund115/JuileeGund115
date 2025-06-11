@@ -1,18 +1,20 @@
-# Hey there, I’m Juilee Gund 👋
+## Hi, I’m Juilee Gund 👋
+### 💞️ Thanks for stopping by! This is where I break things (ethically), learn and share my cybersecurity journey.
 
-🔍 I’m a cybersecurity grad diving deep into red teaming, penetration testing, and all things offensive security.
+### 🌱 Currently diving deep into **Red Teaming**, **Penetration Testing**,and **Kali-Linux**. I enjoy exploring how systems fail and how to make them stronger.
 
-💻 Currently sharpening my skills with tools like Nmap, Wireshark, Burpsuite, Metasploit, Nessus, Aircrack-ng, and AFL++ — yes, I *do* enjoy fuzzing things until they break.
+### 💻 Tools I’m working with: **Burp Suite**, **Nmap**, **Wireshark**, **Metasploit**, **Nessus**, **Aircrack-ng**, **AFL++**,.
 
-🎓 MSc Cybersecurity @ University of Birmingham  
-📜 Google Cybersecurity Cert | CompTIA Security+ (in progress)  
+### 🎁 I created cybersecurity portfolio. Please find it [here]().
+
+### 🎯 Targeting:
+- OSCP
+- CompTIA Pentest+  
+- Expanding red team techniques with real-world labs
+
+### 📫 Let’s connect:  
+[juileegund115@gmail.com](mailto:juileegund115@gmail.com) | [LinkedIn](https://linkedin.com/in/Juilee-Gund)
 
 ---
 
-## 📬 Let’s connect!
-- Email: [juileegund115@gmail.com](mailto:juileegund115@gmail.com)  
-- LinkedIn: [Juilee Gund](https://linkedin.com/in/Juilee-Gund)
-
----
-
-*Always learning. Sometimes breaking. Always documenting it before IT yells at me.*
+### _Always learning. Sometimes breaking. Always documenting it before IT yells at me._
