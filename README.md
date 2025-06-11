@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hey there, I’m Juilee Gund 👋
 
-<!--
-**JuileeGund115/JuileeGund115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 Breaking things (ethically) to make the digital world safer — one port scan at a time.  
+I’m a cybersecurity grad diving deep into red teaming, penetration testing, and all things offensive security.
 
-Here are some ideas to get you started:
+💻 Currently sharpening my skills with tools like Nmap, Wireshark, Aircrack-ng, Bettercap, and AFL++ — yes, I *do* enjoy fuzzing things until they break.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👩‍🔬 I’ve run simulations in SIEM/EDR environments, audited systems for ISO 27001/NIST/SOC 2 compliance, and even hacked an IoT device to make it behave (nicely).  
+
+🎓 MSc Cybersecurity @ University of Birmingham  
+📜 Google Cybersecurity Cert | CompTIA Security+ (in progress)  
+☁️ Fluent in Cloudish: AWS | Azure  
+
+---
+
+## 🛠️ Some things I’ve built, broken, or fixed:
+- 🔧 Pen-tested a smart home device (spoiler: it wasn’t that smart).
+- 🧠 Simulated threat detection using MITRE ATT&CK framework.
+- 🤖 Built a fuzzing tool using AFL++ to crash-test web APIs.
+- 📋 Helped reduce audit chaos with clear policies and risk treatment plans.
+
+---
+
+## 📬 Let’s connect!
+- Email: [juileegund115@gmail.com](mailto:juileegund115@gmail.com)  
+- LinkedIn: [Juilee Gund](https://linkedin.com/in/Juilee-Gund)
+
+---
+
+*Always learning. Sometimes breaking. Always documenting it before IT yells at me.*
