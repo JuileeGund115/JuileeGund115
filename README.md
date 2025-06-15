@@ -3,7 +3,7 @@
 
 ### 🌱 Diving deep into **Red Teaming**, **Penetration Testing**,and **Kali-Linux**. I enjoy exploring how systems fail and how to make them stronger.
 
-## 🛡️ Currently working through the [TryHackMe - Jr Penetration Tester path](https://tryhackme.com/path/outline/jrpenetrationtester)
+### 🛡️ Currently working through the [TryHackMe - Jr Penetration Tester path](https://tryhackme.com/path/outline/jrpenetrationtester)
 
 ### 💻 Tools I’m working with: **Burp Suite**, **Nmap**, **Wireshark**, **Metasploit**, **Nessus**, **Aircrack-ng**, **AFL++**,.
 
