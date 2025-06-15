@@ -1,7 +1,9 @@
 # Hi, I’m Juilee Gund.
 ### 💞️ Thanks for stopping by! This is where I break things (ethically), learn and share my cybersecurity journey.
 
-### 🌱 Currently diving deep into **Red Teaming**, **Penetration Testing**,and **Kali-Linux**. I enjoy exploring how systems fail and how to make them stronger.
+### 🌱 Diving deep into **Red Teaming**, **Penetration Testing**,and **Kali-Linux**. I enjoy exploring how systems fail and how to make them stronger.
+
+## 🛡️ Currently working through the [TryHackMe Jr Penetration Tester path](https://tryhackme.com/path/...)
 
 ### 💻 Tools I’m working with: **Burp Suite**, **Nmap**, **Wireshark**, **Metasploit**, **Nessus**, **Aircrack-ng**, **AFL++**,.
 
