@@ -11,7 +11,7 @@
 
 ### 🎯 Targeting:
 - OSCP
-- CompTIA Pentest+  
+- CompTIA Security+, Pentest+ 
 - Expanding red team techniques with real-world labs
 
 ### 📫 Let’s connect:  
