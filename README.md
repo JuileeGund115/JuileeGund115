@@ -14,4 +14,4 @@ alternate [juileegund29@gmail.com](mailto:juileegund29@gmail.com)
 
 ---
 
-### _Always learning. Sometimes breaking. Always documenting it before IT yells at me._
+### _Always learning. Sometimes breaking. Always documenting it._
