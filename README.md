@@ -9,6 +9,7 @@
 
 ### 📫 Let’s connect:  
 [juileegund115@gmail.com](mailto:juileegund115@gmail.com) | [LinkedIn](https://linkedin.com/in/Juilee-Gund)
+
 alternate [juileegund29@gmail.com](mailto:juileegund29@gmail.com)
 
 ---
